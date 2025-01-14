@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub! I'm Mark Lester Laroya, an aspiring Software Engineer/Developer 🚀
 
-<!--
-**marklaroya/marklaroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:
 
-Here are some ideas to get you started:
+Front-end programming: HTML, CSS, JavaScript, React ⚛️
+Back-end programming (Python, Java, C++) 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About me:
+🎓 I'm a self-taught programmer exploring the world of code.
+🤝 Looking to collaborate on exciting projects and learn from others!
+🌟 Passionate about creating solutions that make a difference.
+
+💬 Ask me about:
+My journey as a self-taught developer 📖
+Projects I’m working on 🖥️
+
+📫 How to reach me:
+Email: [lestermjlaroya@gmail.com] ✉️
+LinkedIn: [https://www.linkedin.com/in/mark-lester-laroya-215b9b252/] 🔗
+Portfolio: [https://portfoliolaroya.netlify.app/] 🔗
+
+⚡ Fun fact: When I’m not coding, you can find me binge-watching tech tutorials or exploring new tools! 🎥

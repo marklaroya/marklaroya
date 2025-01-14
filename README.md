@@ -2,8 +2,11 @@ Hi there 👋
 Welcome to my GitHub! I'm Mark Lester Laroya, an aspiring Software Engineer/Developer 🚀
 
 💻 Currently exploring the world of front-end and back-end programming 🌐 
+
 ⚡ Passionate about coding, problem-solving, and creating awesome projects!
+
 📚 Always learning, growing, and excited to build innovative solutions ✨
+
 
 🌱 Currently learning:
 

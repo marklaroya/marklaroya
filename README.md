@@ -34,6 +34,7 @@ Projects I’m working on 🖥️
 
 
 📫 How to reach me:
+
 Email: [lestermjlaroya@gmail.com] ✉️
 
 LinkedIn: [https://www.linkedin.com/in/mark-lester-laroya-215b9b252/] 🔗

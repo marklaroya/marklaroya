@@ -1,5 +1,5 @@
-#Hi there 👋
-#Welcome to my GitHub! I'm Mark Lester Laroya, an aspiring Software Engineer/Developer 🚀
+# Hi there 👋
+# Welcome to my GitHub! I'm Mark Lester Laroya, an aspiring Software Engineer/Developer 🚀
 
 💻 Currently exploring the world of front-end and back-end programming 🌐 
 

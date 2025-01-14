@@ -9,14 +9,14 @@
 
 
 
-#🌱 Currently learning:
+# 🌱 Currently learning:
 
 Front-end programming: HTML, CSS, JavaScript, React ⚛️
 Back-end programming (Python, Java, C++) 🛠️
 
 
 
-#💡 About me:
+# 💡 About me:
 
 🎓 I'm a self-taught programmer exploring the world of code.
 
@@ -26,7 +26,7 @@ Back-end programming (Python, Java, C++) 🛠️
 
 
 
-#💬 Ask me about:
+# 💬 Ask me about:
 
 My journey as a self-taught developer 📖
 
@@ -34,7 +34,7 @@ Projects I’m working on 🖥️
 
 
 
-#📫 How to reach me:
+# 📫 How to reach me:
 
 Email: [lestermjlaroya@gmail.com] ✉️
 

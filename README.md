@@ -8,10 +8,13 @@ Welcome to my GitHub! I'm Mark Lester Laroya, an aspiring Software Engineer/Deve
 📚 Always learning, growing, and excited to build innovative solutions ✨
 
 
+
 🌱 Currently learning:
 
 Front-end programming: HTML, CSS, JavaScript, React ⚛️
 Back-end programming (Python, Java, C++) 🛠️
+
+
 
 💡 About me:
 
@@ -21,14 +24,16 @@ Back-end programming (Python, Java, C++) 🛠️
 
 🌟 Passionate about creating solutions that make a difference.
 
+
+
 💬 Ask me about:
 My journey as a self-taught developer 📖
 
 Projects I’m working on 🖥️
 
 
-📫 How to reach me:
 
+📫 How to reach me:
 Email: [lestermjlaroya@gmail.com] ✉️
 
 LinkedIn: [https://www.linkedin.com/in/mark-lester-laroya-215b9b252/] 🔗

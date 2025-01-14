@@ -14,12 +14,16 @@ Front-end programming: HTML, CSS, JavaScript, React ⚛️
 Back-end programming (Python, Java, C++) 🛠️
 
 💡 About me:
+
 🎓 I'm a self-taught programmer exploring the world of code.
+
 🤝 Looking to collaborate on exciting projects and learn from others!
+
 🌟 Passionate about creating solutions that make a difference.
 
 💬 Ask me about:
 My journey as a self-taught developer 📖
+
 Projects I’m working on 🖥️
 
 

@@ -27,6 +27,7 @@ Back-end programming (Python, Java, C++) 🛠️
 
 
 💬 Ask me about:
+
 My journey as a self-taught developer 📖
 
 Projects I’m working on 🖥️
